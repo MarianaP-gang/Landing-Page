@@ -9,7 +9,7 @@ body{
 .header{
 width: 100%;
 height: 89px;
-background: url(/img/fondo.jpg);
+background: url(./img/fondo.jpg);
 display: flex;
 justify-content: space-between;
 
